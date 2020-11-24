@@ -1,1 +1,2 @@
 # gitPractice_TakumiMaitani
+Github練習
