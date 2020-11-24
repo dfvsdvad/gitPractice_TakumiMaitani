@@ -29,7 +29,7 @@ abcdef
 中間発表で指摘を受けた点と改善点を記載してください
 ●指摘を受けた点
 ・xxxxxxx
-・xxxxxxxx
+・xxxxxx
 ●改善点
 ・xxxxxxx
 ・xxxxxxx
